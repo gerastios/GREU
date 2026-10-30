@@ -1,0 +1,4 @@
+-i test -r My5ql123!
+-p prod -x /run/media/gerd/FILME_1/Filme
+-s prod -x /run/media/gerd/FILME_1/Filme -l DE
+-s test -x /home/gerd/Videos/DVDs -l DE
