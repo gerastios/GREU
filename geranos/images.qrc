@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>geranos.jpg</file>
+    </qresource>
+</RCC>
